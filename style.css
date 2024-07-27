@@ -1,0 +1,26 @@
+* {
+ font-family: 'Times New Roman', sans-serif;   
+}
+
+p {
+    background-color:rgba(255, 0, 0, 0.413);
+    text-align: right;
+}
+
+.intro {
+    color:green;
+    font-size: 44px;
+}
+
+img {
+    height:auto;
+    width: fit-content;
+}
+
+ol, ul {
+    color:pink;
+}
+
+h1 {
+    color: blueviolet;
+}
